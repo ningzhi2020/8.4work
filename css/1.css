@@ -42,6 +42,7 @@ li {
 
 .nav {
     height: 100px;
+    background-color: darkorange;
     /* background-color: red; */
 }
 
@@ -133,7 +134,7 @@ li {
     width: 100%;
     height: 753px;
     /* background-color: pink; */
-    background-image: url(../img/fyaboutback-3.jpg);
+    background-image: url(../img/back1.png);
     background-repeat: no-repeat;
     background-position: center top;
 }
